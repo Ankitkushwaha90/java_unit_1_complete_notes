@@ -1,4 +1,4 @@
-# it's working in java 22 version
+# it's running code in java 22 version
 
 # Java Environment
 The Java environment consists of the JVM, JRE, and JDK, which provide the necessary tools to develop and run Java applications.
